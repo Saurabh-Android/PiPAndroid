@@ -22,4 +22,5 @@ public class MainActivity extends AppCompatActivity {
     }
 	//Added comment line here, this change will goes under commit m1
 	//Added another comment line here, this change will goes under commit m2
+	//Added this line from git remote online 
 }
